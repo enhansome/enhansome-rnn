@@ -1,0 +1,445 @@
+{
+  "items": [
+    {
+      "description": "Please feel free to pull requests, email Myungsub Choi (cms6539@gmail.com) or join our chats to add links.\nThe project is not actively maintained.\n",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Caffe",
+          "description": "C++ with MATLAB/Python wrappers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-31T23:10:28Z",
+            "owner": "BVLC",
+            "repo": "caffe",
+            "stars": 34572
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Tensorflow",
+          "description": "Python, C++",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Notebook examples",
+              "description": "by aymericdamien",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-07-26T19:46:13Z",
+                "owner": "aymericdamien",
+                "repo": "TensorFlow-Examples",
+                "stars": 43738
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tutorials",
+              "description": "by nlintz",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-08-20T07:32:57Z",
+                "owner": "nlintz",
+                "repo": "TensorFlow-Tutorials",
+                "stars": 6029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scikit Flow (skflow)",
+              "description": "Simplified Scikit-learn like Interface for TensorFlow",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2021-08-30T20:14:47Z",
+                "owner": "tensorflow",
+                "repo": "skflow",
+                "stars": 3168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "char-rnn-tensorflow",
+              "description": "by sherjilozair: char-rnn in tensorflow",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-12-24T06:52:01Z",
+                "owner": "sherjilozair",
+                "repo": "char-rnn-tensorflow",
+                "stars": 2659
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Theano",
+          "description": "Python",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lasagne",
+              "description": "Lightweight library to build and train neural networks in Theano",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-03-26T02:58:32Z",
+                "owner": "Lasagne",
+                "repo": "Lasagne",
+                "stars": 3859
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blocks",
+              "description": "modular framework that enables building neural network models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-02-19T12:41:38Z",
+                "owner": "mila-iqia",
+                "repo": "blocks",
+                "stars": 1151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Passage",
+              "description": "Library for text analysis with RNNs",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2018-09-10T17:31:35Z",
+                "owner": "IndicoDataSolutions",
+                "repo": "Passage",
+                "stars": 536
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theano-rnn",
+              "description": "by Graham Taylor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-04-18T08:53:56Z",
+                "owner": "gwtaylor",
+                "repo": "theano-rnn",
+                "stars": 377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Theano-Lights",
+              "description": "Contains many generative models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2015-09-20T11:23:29Z",
+                "owner": "Ivaylo-Popov",
+                "repo": "Theano-Lights",
+                "stars": 268
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Torch",
+          "description": "Lua",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "char-rnn",
+              "description": "by Andrej Karpathy : multi-layer RNN/LSTM/GRU for training/sampling from character-level language models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2023-10-24T17:15:27Z",
+                "owner": "karpathy",
+                "repo": "char-rnn",
+                "stars": 12084
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "neuraltalk2",
+              "description": "by Andrej Karpathy : Recurrent Neural Network captions image, much faster and better version of the original neuraltalk",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-11-07T05:59:20Z",
+                "owner": "karpathy",
+                "repo": "neuraltalk2",
+                "stars": 5590
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "torch-rnn",
+              "description": "by Justin Johnson : reusable RNN/LSTM modules for torch7 - much faster and memory efficient reimplementation of char-rnn",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2022-06-21T21:10:11Z",
+                "owner": "jcjohnson",
+                "repo": "torch-rnn",
+                "stars": 2559
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "torchnet",
+              "description": "modular framework that enables building neural network models",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Lua",
+                "last_commit": "2019-03-27T22:21:16Z",
+                "owner": "facebookarchive",
+                "repo": "torchnet",
+                "stars": 988
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rnn",
+              "description": "by Nicholas Leonard : general library for implementing RNN, LSTM, BRNN and BLSTM (highly unit tested).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2017-12-21T06:29:48Z",
+                "owner": "Element-Research",
+                "repo": "rnn",
+                "stars": 941
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LSTM",
+              "description": "by Wojciech Zaremba : Long Short Term Memory Units to train a language model on word level Penn Tree Bank dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2018-08-21T20:06:21Z",
+                "owner": "wojzaremba",
+                "repo": "lstm",
+                "stars": 683
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PyTorch",
+          "description": "Python",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Word-level RNN example",
+              "description": "demonstrates PyTorch's built in RNN modules for language modeling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-01T17:21:47Z",
+                "owner": "pytorch",
+                "repo": "examples",
+                "stars": 24004
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Practical PyTorch tutorials",
+              "description": "by Sean Robertson : focuses on using RNNs for Natural Language Processing",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-07-01T04:34:00Z",
+                "owner": "spro",
+                "repo": "practical-pytorch",
+                "stars": 4542
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep Learning For NLP In PyTorch",
+              "description": "by Robert Guthrie : written for a Natural Language Processing class at Georgia Tech",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-01-22T21:41:03Z",
+                "owner": "rguthrie3",
+                "repo": "DeepLearningForNLPInPytorch",
+                "stars": 1957
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DL4J",
+          "description": "by Skymind : Deep Learning library for Java, Scala & Clojure on Hadoop, Spark & GPUs",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rnn examples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-07-16T10:59:14Z",
+                "owner": "deeplearning4j",
+                "repo": "deeplearning4j-examples",
+                "stars": 2505
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Etc.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "neuraltalk",
+              "description": "by Andrej Karpathy : numpy-based RNN/LSTM implementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-12-22T22:26:36Z",
+                "owner": "karpathy",
+                "repo": "neuraltalk",
+                "stars": 5499
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Brainstorm",
+              "description": "deep learning library in Python, developed by IDSIA, thereby including various recurrent structures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-09-13T16:34:08Z",
+                "owner": "IDSIA",
+                "repo": "brainstorm",
+                "stars": 1320
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Recurrentjs",
+              "description": "by Andrej Karpathy : a beta javascript library for RNN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2016-11-04T15:42:55Z",
+                "owner": "karpathy",
+                "repo": "recurrentjs",
+                "stars": 985
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "faster-RNNLM",
+              "description": "of Yandex : C++ based rnnlm implementation aimed to handle huge datasets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2022-04-26T17:52:26Z",
+                "owner": "yandex",
+                "repo": "faster-rnnlm",
+                "stars": 562
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DARQN",
+              "description": "by 5vision : Deep Attention Recurrent Q-Network",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2015-11-07T19:40:16Z",
+                "owner": "5vision",
+                "repo": "DARQN",
+                "stars": 115
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Codes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Theory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture Variants"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Natural Language Processing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Computer Vision"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multimodal (CV + NLP)"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:50.123Z",
+    "original_repository": "kjw0612/awesome-rnn",
+    "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",
+    "enhanced_repository": "enhansome/enhansome-rnn",
+    "enhanced_repository_description": null,
+    "title": "Awesome Recurrent Neural Networks with stars"
+  }
+}
