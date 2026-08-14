@@ -19,7 +19,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34572
+            "stars": 34574
           }
         },
         {
@@ -178,7 +178,7 @@
                 "last_commit": "2023-10-24T17:15:27Z",
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12084
+                "stars": 12086
               }
             },
             {
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:35:06.242Z",
+    "last_updated": "2026-08-14T19:29:07.471Z",
     "original_repository": "kjw0612/awesome-rnn",
     "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",
     "enhanced_repository": "enhansome/enhansome-rnn",
