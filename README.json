@@ -19,7 +19,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34574
+            "stars": 34575
           }
         },
         {
@@ -101,7 +101,7 @@
                 "last_commit": "2022-03-26T02:58:32Z",
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3859
+                "stars": 3857
               }
             },
             {
@@ -178,7 +178,7 @@
                 "last_commit": "2023-10-24T17:15:27Z",
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12086
+                "stars": 12088
               }
             },
             {
@@ -192,7 +192,7 @@
                 "last_commit": "2017-11-07T05:59:20Z",
                 "owner": "karpathy",
                 "repo": "neuraltalk2",
-                "stars": 5590
+                "stars": 5592
               }
             },
             {
@@ -269,7 +269,7 @@
                 "last_commit": "2025-09-01T17:21:47Z",
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24007
+                "stars": 24008
               }
             },
             {
@@ -339,7 +339,7 @@
                 "last_commit": "2020-12-22T22:26:36Z",
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5499
+                "stars": 5500
               }
             },
             {
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:29:07.471Z",
+    "last_updated": "2026-08-15T18:57:04.912Z",
     "original_repository": "kjw0612/awesome-rnn",
     "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",
     "enhanced_repository": "enhansome/enhansome-rnn",
