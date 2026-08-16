@@ -19,7 +19,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34575
+            "stars": 34562
           }
         },
         {
@@ -38,7 +38,7 @@
                 "last_commit": "2024-07-26T19:46:13Z",
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43735
+                "stars": 43734
               }
             },
             {
@@ -269,7 +269,7 @@
                 "last_commit": "2025-09-01T17:21:47Z",
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24008
+                "stars": 24006
               }
             },
             {
@@ -339,7 +339,7 @@
                 "last_commit": "2020-12-22T22:26:36Z",
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5500
+                "stars": 5501
               }
             },
             {
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T18:57:04.912Z",
+    "last_updated": "2026-08-16T18:56:23.014Z",
     "original_repository": "kjw0612/awesome-rnn",
     "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",
     "enhanced_repository": "enhansome/enhansome-rnn",
