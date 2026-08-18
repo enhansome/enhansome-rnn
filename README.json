@@ -19,7 +19,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34563
+            "stars": 34561
           }
         },
         {
@@ -269,7 +269,7 @@
                 "last_commit": "2025-09-01T17:21:47Z",
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24008
+                "stars": 24009
               }
             },
             {
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:08:04.202Z",
+    "last_updated": "2026-08-18T19:07:39.353Z",
     "original_repository": "kjw0612/awesome-rnn",
     "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",
     "enhanced_repository": "enhansome/enhansome-rnn",
