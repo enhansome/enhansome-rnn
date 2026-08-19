@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Please feel free to pull requests, email Myungsub Choi (cms6539@gmail.com) or join our chats to add links.\nThe project is not actively maintained.\n",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12791642,
             "language": "C++",
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34561
+            "stars": 34560
           }
         },
         {
@@ -34,11 +30,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 45986162,
                 "language": "Jupyter Notebook",
                 "last_commit": "2024-07-26T19:46:13Z",
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43732
+                "stars": 43733
               }
             },
             {
@@ -48,6 +45,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 45946078,
                 "language": "Jupyter Notebook",
                 "last_commit": "2023-08-20T07:32:57Z",
                 "owner": "nlintz",
@@ -62,6 +60,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 46443613,
                 "language": "Python",
                 "last_commit": "2021-08-30T20:14:47Z",
                 "owner": "tensorflow",
@@ -76,6 +75,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 46979489,
                 "language": "Python",
                 "last_commit": "2020-12-24T06:52:01Z",
                 "owner": "sherjilozair",
@@ -97,6 +97,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 23924195,
                 "language": "Python",
                 "last_commit": "2022-03-26T02:58:32Z",
                 "owner": "Lasagne",
@@ -111,6 +112,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 24829371,
                 "language": "Python",
                 "last_commit": "2019-02-19T12:41:38Z",
                 "owner": "mila-iqia",
@@ -125,6 +127,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 29309977,
                 "language": "Python",
                 "last_commit": "2018-09-10T17:31:35Z",
                 "owner": "IndicoDataSolutions",
@@ -139,6 +142,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 4998872,
                 "language": "Python",
                 "last_commit": "2017-04-18T08:53:56Z",
                 "owner": "gwtaylor",
@@ -153,6 +157,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 32457477,
                 "language": "Python",
                 "last_commit": "2015-09-20T11:23:29Z",
                 "owner": "Ivaylo-Popov",
@@ -174,6 +179,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 36027077,
                 "language": "Lua",
                 "last_commit": "2023-10-24T17:15:27Z",
                 "owner": "karpathy",
@@ -188,11 +194,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 46531155,
                 "language": "Jupyter Notebook",
                 "last_commit": "2017-11-07T05:59:20Z",
                 "owner": "karpathy",
                 "repo": "neuraltalk2",
-                "stars": 5592
+                "stars": 5591
               }
             },
             {
@@ -202,6 +209,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 51682497,
                 "language": "Lua",
                 "last_commit": "2022-06-21T21:10:11Z",
                 "owner": "jcjohnson",
@@ -216,6 +224,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 61539428,
                 "language": "Lua",
                 "last_commit": "2019-03-27T22:21:16Z",
                 "owner": "facebookarchive",
@@ -230,6 +239,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 32498520,
                 "language": "Lua",
                 "last_commit": "2017-12-21T06:29:48Z",
                 "owner": "Element-Research",
@@ -244,6 +254,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 30767013,
                 "language": "Lua",
                 "last_commit": "2018-08-21T20:06:21Z",
                 "owner": "wojzaremba",
@@ -265,6 +276,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 66424871,
                 "language": "Python",
                 "last_commit": "2025-09-01T17:21:47Z",
                 "owner": "pytorch",
@@ -279,11 +291,12 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 79684696,
                 "language": "Jupyter Notebook",
                 "last_commit": "2021-07-01T04:34:00Z",
                 "owner": "spro",
                 "repo": "practical-pytorch",
-                "stars": 4542
+                "stars": 4541
               }
             },
             {
@@ -293,6 +306,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 83916714,
                 "language": "Jupyter Notebook",
                 "last_commit": "2023-01-22T21:41:03Z",
                 "owner": "rguthrie3",
@@ -314,6 +328,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 41310523,
                 "language": "Java",
                 "last_commit": "2026-07-16T10:59:14Z",
                 "owner": "deeplearning4j",
@@ -335,6 +350,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 27244649,
                 "language": "Python",
                 "last_commit": "2020-12-22T22:26:36Z",
                 "owner": "karpathy",
@@ -349,6 +365,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 25727564,
                 "language": "Python",
                 "last_commit": "2022-09-13T16:34:08Z",
                 "owner": "IDSIA",
@@ -363,6 +380,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 28200223,
                 "language": "HTML",
                 "last_commit": "2016-11-04T15:42:55Z",
                 "owner": "karpathy",
@@ -377,6 +395,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 39773115,
                 "language": "C++",
                 "last_commit": "2022-04-26T17:52:26Z",
                 "owner": "yandex",
@@ -391,6 +410,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 45750305,
                 "language": "Lua",
                 "last_commit": "2015-11-07T19:40:16Z",
                 "owner": "5vision",
@@ -402,41 +422,12 @@
         }
       ],
       "title": "Codes"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Theory"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Architecture Variants"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Applications"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Natural Language Processing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Computer Vision"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multimodal (CV + NLP)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:07:39.353Z",
+    "last_updated": "2026-08-19T12:51:10.993Z",
     "original_repository": "kjw0612/awesome-rnn",
+    "original_repository_id": 37458410,
     "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",
     "enhanced_repository": "enhansome/enhansome-rnn",
     "enhanced_repository_description": null,
