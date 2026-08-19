@@ -4,11 +4,11 @@ A curated list of resources dedicated to recurrent neural networks (closely rela
 
 Maintainers - [Myungsub Choi](https://github.com/myungsub), [Taeksoo Kim](https://github.com/jazzsaxmafia), [Jiwon Kim](https://github.com/kjw0612)
 
-We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,183 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,253 | 🐛 3 | 📅 2023-11-16
+We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,182 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,253 | 🐛 3 | 📅 2023-11-16
 
 ## Contributing
 
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-rnn/pulls) ⭐ 6,211 | 🐛 4 | 📅 2022-02-03, email Myungsub Choi (<cms6539@gmail.com>) or join our chats to add links.
+Please feel free to [pull requests](https://github.com/kjw0612/awesome-rnn/pulls) ⭐ 6,210 | 🐛 4 | 📅 2022-02-03, email Myungsub Choi (<cms6539@gmail.com>) or join our chats to add links.
 
 The project is not actively maintained.
 
@@ -58,7 +58,7 @@ The project is not actively maintained.
 * [Caffe](https://github.com/BVLC/caffe) ⭐ 34,560 | 🐛 1,566 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
   * [LRCN](http://jeffdonahue.com/lrcn/) by Jeff Donahue
 * [Tensorflow](https://www.tensorflow.org/) - Python, C++
-  * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,733 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 by aymericdamien
+  * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,732 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 by aymericdamien
   * [Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,029 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 by nlintz
   * [Scikit Flow (skflow)](https://github.com/tensorflow/skflow) ⚠️ Archived - Simplified Scikit-learn like Interface for TensorFlow
   * [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow) ⭐ 2,659 | 🐛 47 | 🌐 Python | 📅 2020-12-24 by sherjilozair: char-rnn in tensorflow
