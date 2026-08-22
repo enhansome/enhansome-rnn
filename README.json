@@ -35,7 +35,7 @@
                 "last_commit": "2024-07-26T19:46:13Z",
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43737
+                "stars": 43738
               }
             },
             {
@@ -184,7 +184,7 @@
                 "last_commit": "2023-10-24T17:15:27Z",
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12090
+                "stars": 12091
               }
             },
             {
@@ -281,7 +281,7 @@
                 "last_commit": "2025-09-01T17:21:47Z",
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24010
+                "stars": 24012
               }
             },
             {
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:07:02.136Z",
+    "last_updated": "2026-08-22T18:58:23.817Z",
     "original_repository": "kjw0612/awesome-rnn",
     "original_repository_id": 37458410,
     "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",
