@@ -35,7 +35,7 @@
                 "last_commit": "2024-07-26T19:46:13Z",
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43737
+                "stars": 43736
               }
             },
             {
@@ -184,7 +184,7 @@
                 "last_commit": "2023-10-24T17:15:27Z",
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12091
+                "stars": 12093
               }
             },
             {
@@ -422,10 +422,67 @@
         }
       ],
       "title": "Codes"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Jiwei Li, Minh-Thang Luong, and Dan Jurafsky, A Hierarchical Neural Autoencoder for Paragraphs and Documents, ACL 2015 [Paper",
+                  "description": "], [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 36830331,
+                    "language": "Matlab",
+                    "last_commit": "2015-09-30T17:19:22Z",
+                    "owner": "jiweil",
+                    "repo": "Hierarchical-Neural-Autoencoder",
+                    "stars": 219
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Language Modeling"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Natural Language Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Wojciech Zaremba and Ilya Sutskever, Learning to Execute, arXiv:1410.4615 [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26846294,
+                "language": "Lua",
+                "last_commit": "2016-04-09T18:41:39Z",
+                "owner": "wojciechz",
+                "repo": "learning_to_execute",
+                "stars": 481
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
+        }
+      ],
+      "title": "Applications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:57:22.178Z",
+    "last_updated": "2026-08-24T13:56:27.596Z",
     "original_repository": "kjw0612/awesome-rnn",
     "original_repository_id": 37458410,
     "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",

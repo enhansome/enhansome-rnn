@@ -4,11 +4,11 @@ A curated list of resources dedicated to recurrent neural networks (closely rela
 
 Maintainers - [Myungsub Choi](https://github.com/myungsub), [Taeksoo Kim](https://github.com/jazzsaxmafia), [Jiwon Kim](https://github.com/kjw0612)
 
-We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,254 | 🐛 3 | 📅 2023-11-16
+We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,254 | 🐛 3 | 📅 2023-11-16
 
 ## Contributing
 
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-rnn/pulls) ⭐ 6,208 | 🐛 4 | 📅 2022-02-03, email Myungsub Choi (<cms6539@gmail.com>) or join our chats to add links.
+Please feel free to [pull requests](https://github.com/kjw0612/awesome-rnn/pulls) ⭐ 6,209 | 🐛 4 | 📅 2022-02-03, email Myungsub Choi (<cms6539@gmail.com>) or join our chats to add links.
 
 The project is not actively maintained.
 
@@ -55,10 +55,10 @@ The project is not actively maintained.
 
 ## Codes
 
-* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,559 | 🐛 1,541 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
+* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,559 | 🐛 1,543 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
   * [LRCN](http://jeffdonahue.com/lrcn/) by Jeff Donahue
 * [Tensorflow](https://www.tensorflow.org/) - Python, C++
-  * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,737 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 by aymericdamien
+  * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,736 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 by aymericdamien
   * [Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,028 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 by nlintz
   * [Scikit Flow (skflow)](https://github.com/tensorflow/skflow) ⚠️ Archived - Simplified Scikit-learn like Interface for TensorFlow
   * [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow) ⭐ 2,659 | 🐛 47 | 🌐 Python | 📅 2020-12-24 by sherjilozair: char-rnn in tensorflow
@@ -79,7 +79,7 @@ The project is not actively maintained.
   * [Pylearn2](http://deeplearning.net/software/pylearn2/) : Library that wraps a lot of models and training algorithms in deep learning
   * [Keras](http://keras.io/) : (Tensorflow / Theano)-based modular deep learning library similar to Torch
 * [Torch](http://torch.ch/) - Lua
-  * [char-rnn](https://github.com/karpathy/char-rnn) ⭐ 12,091 | 🐛 111 | 🌐 Lua | 📅 2023-10-24 by Andrej Karpathy : multi-layer RNN/LSTM/GRU for training/sampling from character-level language models
+  * [char-rnn](https://github.com/karpathy/char-rnn) ⭐ 12,093 | 🐛 111 | 🌐 Lua | 📅 2023-10-24 by Andrej Karpathy : multi-layer RNN/LSTM/GRU for training/sampling from character-level language models
   * [neuraltalk2](https://github.com/karpathy/neuraltalk2) ⭐ 5,592 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 by Andrej Karpathy : Recurrent Neural Network captions image, much faster and better version of the original [neuraltalk](https://github.com/karpathy/neuraltalk) ⭐ 5,502 | 🐛 30 | 🌐 Python | 📅 2020-12-22
   * [torch-rnn](https://github.com/jcjohnson/torch-rnn) ⭐ 2,559 | 🐛 110 | 🌐 Lua | 📅 2022-06-21 by Justin Johnson : reusable RNN/LSTM modules for torch7 - much faster and memory efficient reimplementation of char-rnn
   * [torchnet](https://github.com/torchnet/torchnet) ⚠️ Archived : modular framework that enables building neural network models
@@ -187,10 +187,10 @@ The project is not actively maintained.
 
 #### Language Modeling
 
+* Jiwei Li, Minh-Thang Luong, and Dan Jurafsky, *A Hierarchical Neural Autoencoder for Paragraphs and Documents*, ACL 2015 \[[Paper](http://arxiv.org/pdf/1506.01057)], \[[Code](https://github.com/jiweil/Hierarchical-Neural-Autoencoder) ⭐ 219 | 🐛 4 | 🌐 Matlab | 📅 2015-09-30]
 * Tomas Mikolov, Martin Karafiat, Lukas Burget, Jan "Honza" Cernocky, Sanjeev Khudanpur, *Recurrent Neural Network based Language Model*, Interspeech 2010 \[[Paper](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)]
 * Tomas Mikolov, Stefan Kombrink, Lukas Burget, Jan "Honza" Cernocky, Sanjeev Khudanpur, *Extensions of Recurrent Neural Network Language Model*, ICASSP 2011 \[[Paper](http://www.fit.vutbr.cz/research/groups/speech/publi/2011/mikolov_icassp2011_5528.pdf)]
 * Stefan Kombrink, Tomas Mikolov, Martin Karafiat, Lukas Burget, *Recurrent Neural Network based Language Modeling in Meeting Recognition*, Interspeech 2011 \[[Paper](http://www.fit.vutbr.cz/~imikolov/rnnlm/ApplicationOfRNNinMeetingRecognition_IS2011.pdf)]
-* Jiwei Li, Minh-Thang Luong, and Dan Jurafsky, *A Hierarchical Neural Autoencoder for Paragraphs and Documents*, ACL 2015 \[[Paper](http://arxiv.org/pdf/1506.01057)], \[[Code](https://github.com/jiweil/Hierarchical-Neural-Autoencoder) ⭐ 219 | 🐛 4 | 🌐 Matlab | 📅 2015-09-30]
 * Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, and Richard S. Zemel, *Skip-Thought Vectors*, arXiv:1506.06726 / NIPS 2015 \[[Paper](http://arxiv.org/pdf/1506.06726.pdf)]
 * Yoon Kim, Yacine Jernite, David Sontag, and Alexander M. Rush, *Character-Aware Neural Language Models*, arXiv:1508.06615 \[[Paper](http://arxiv.org/pdf/1508.06615)]
 * Xingxing Zhang, Liang Lu, and Mirella Lapata, *Tree Recurrent Neural Networks with Application to Language Modeling*, arXiv:1511.00060 \[[Paper](http://arxiv.org/pdf/1511.00060.pdf)]
@@ -384,9 +384,9 @@ The project is not actively maintained.
 
 ### Other
 
+* Wojciech Zaremba and Ilya Sutskever, *Learning to Execute*, arXiv:1410.4615 \[[Paper](http://arxiv.org/pdf/1410.4615.pdf)] \[[Code](https://github.com/wojciechz/learning_to_execute) ⭐ 481 | 🐛 2 | 🌐 Lua | 📅 2016-04-09]
 * Alex Graves, *Generating Sequences With Recurrent Neural Networks,* arXiv:1308.0850 [\[Paper\]](http://arxiv.org/abs/1308.0850)
 * Volodymyr Mnih, Nicolas Heess, Alex Graves, and Koray Kavukcuoglu, *Recurrent Models of Visual Attention*, NIPS 2014 / arXiv:1406.6247 \[[Paper](http://arxiv.org/pdf/1406.6247.pdf)]
-* Wojciech Zaremba and Ilya Sutskever, *Learning to Execute*, arXiv:1410.4615 \[[Paper](http://arxiv.org/pdf/1410.4615.pdf)] \[[Code](https://github.com/wojciechz/learning_to_execute) ⭐ 481 | 🐛 2 | 🌐 Lua | 📅 2016-04-09]
 * Samy Bengio, Oriol Vinyals, Navdeep Jaitly, and Noam Shazeer, *Scheduled Sampling for Sequence Prediction with
   Recurrent Neural Networks*, arXiv:1506.03099 / NIPS 2015 \[[Paper](http://arxiv.org/pdf/1506.03099)]
 * Bing Shuai, Zhen Zuo, Gang Wang, and Bing Wang, *DAG-Recurrent Neural Networks For Scene Labeling*, arXiv:1509.00552 \[[Paper](http://arxiv.org/pdf/1509.00552)]
@@ -448,4 +448,4 @@ The project is not actively maintained.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
