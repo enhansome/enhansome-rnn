@@ -55,7 +55,7 @@ The project is not actively maintained.
 
 ## Codes
 
-* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,559 | 🐛 1,543 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
+* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,558 | 🐛 1,545 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
   * [LRCN](http://jeffdonahue.com/lrcn/) by Jeff Donahue
 * [Tensorflow](https://www.tensorflow.org/) - Python, C++
   * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,736 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 by aymericdamien
