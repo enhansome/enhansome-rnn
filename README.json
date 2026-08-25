@@ -184,7 +184,7 @@
                 "last_commit": "2023-10-24T17:15:27Z",
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12093
+                "stars": 12094
               }
             },
             {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:10:02.578Z",
+    "last_updated": "2026-08-25T05:50:38.909Z",
     "original_repository": "kjw0612/awesome-rnn",
     "original_repository_id": 37458410,
     "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",
