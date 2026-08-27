@@ -4,7 +4,7 @@ A curated list of resources dedicated to recurrent neural networks (closely rela
 
 Maintainers - [Myungsub Choi](https://github.com/myungsub), [Taeksoo Kim](https://github.com/jazzsaxmafia), [Jiwon Kim](https://github.com/kjw0612)
 
-We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,254 | 🐛 3 | 📅 2023-11-16
+We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,254 | 🐛 3 | 📅 2023-11-16
 
 ## Contributing
 
@@ -55,7 +55,7 @@ The project is not actively maintained.
 
 ## Codes
 
-* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,595 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
+* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,592 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
   * [LRCN](http://jeffdonahue.com/lrcn/) by Jeff Donahue
 * [Tensorflow](https://www.tensorflow.org/) - Python, C++
   * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,735 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 by aymericdamien
@@ -87,7 +87,7 @@ The project is not actively maintained.
   * [LSTM](https://github.com/wojzaremba/lstm) ⭐ 683 | 🐛 11 | 🌐 Lua | 📅 2018-08-21 by Wojciech Zaremba : Long Short Term Memory Units to train a language model on word level Penn Tree Bank dataset
   * [Oxford](https://github.com/oxford-cs-ml-2015) by Nando de Freitas : Oxford Computer Science - Machine Learning 2015 Practicals
 * [PyTorch](http://pytorch.org/) - Python
-  * [Word-level RNN example](https://github.com/pytorch/examples/tree/master/word_language_model) ⭐ 24,015 | 🐛 252 | 🌐 Python | 📅 2025-09-01 : demonstrates PyTorch's built in RNN modules for language modeling
+  * [Word-level RNN example](https://github.com/pytorch/examples/tree/master/word_language_model) ⭐ 24,016 | 🐛 252 | 🌐 Python | 📅 2025-09-01 : demonstrates PyTorch's built in RNN modules for language modeling
   * [Practical PyTorch tutorials](https://github.com/spro/practical-pytorch) ⚠️ Archived by Sean Robertson : focuses on using RNNs for Natural Language Processing
   * [Deep Learning For NLP In PyTorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) ⭐ 1,956 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-01-22 by Robert Guthrie : written for a Natural Language Processing class at Georgia Tech
 * [DL4J](http://deeplearning4j.org/) by [Skymind](http://www.skymind.io/) : Deep Learning library for Java, Scala & Clojure on Hadoop, Spark & GPUs
@@ -448,4 +448,4 @@ The project is not actively maintained.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

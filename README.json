@@ -281,7 +281,7 @@
                 "last_commit": "2025-09-01T17:21:47Z",
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24015
+                "stars": 24016
               }
             },
             {
@@ -482,9 +482,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:35:34.949Z",
-    "original_repository": "kjw0612/awesome-rnn",
-    "original_repository_id": 37458410,
+    "last_updated": "2026-08-27T12:01:15.898Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 37458410,
+      "language": null,
+      "last_commit": "2022-02-03T05:56:39Z",
+      "owner": "kjw0612",
+      "repo": "awesome-rnn",
+      "stars": 6210
+    },
     "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",
     "enhanced_repository": "enhansome/enhansome-rnn",
     "enhanced_repository_description": null,
