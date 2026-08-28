@@ -4,11 +4,11 @@ A curated list of resources dedicated to recurrent neural networks (closely rela
 
 Maintainers - [Myungsub Choi](https://github.com/myungsub), [Taeksoo Kim](https://github.com/jazzsaxmafia), [Jiwon Kim](https://github.com/kjw0612)
 
-We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,254 | 🐛 3 | 📅 2023-11-16
+We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,253 | 🐛 3 | 📅 2023-11-16
 
 ## Contributing
 
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-rnn/pulls) ⭐ 6,210 | 🐛 4 | 📅 2022-02-03, email Myungsub Choi (<cms6539@gmail.com>) or join our chats to add links.
+Please feel free to [pull requests](https://github.com/kjw0612/awesome-rnn/pulls) ⭐ 6,211 | 🐛 4 | 📅 2022-02-03, email Myungsub Choi (<cms6539@gmail.com>) or join our chats to add links.
 
 The project is not actively maintained.
 
@@ -55,7 +55,7 @@ The project is not actively maintained.
 
 ## Codes
 
-* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,592 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
+* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,179 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
   * [LRCN](http://jeffdonahue.com/lrcn/) by Jeff Donahue
 * [Tensorflow](https://www.tensorflow.org/) - Python, C++
   * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,735 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 by aymericdamien
@@ -67,7 +67,7 @@ The project is not actively maintained.
     * [Sequence-to-Sequence Model Tutorial](https://www.tensorflow.org/versions/master/tutorials/seq2seq/index.html)
   * [Keras](http://keras.io/) : (Tensorflow / Theano)-based modular deep learning library similar to Torch
 * [Theano](http://deeplearning.net/software/theano/) - Python
-  * [Lasagne](https://github.com/Lasagne/Lasagne) ⭐ 3,857 | 🐛 139 | 🌐 Python | 📅 2022-03-26 : Lightweight library to build and train neural networks in Theano
+  * [Lasagne](https://github.com/Lasagne/Lasagne) ⭐ 3,858 | 🐛 139 | 🌐 Python | 📅 2022-03-26 : Lightweight library to build and train neural networks in Theano
   * [Blocks](https://github.com/mila-udem/blocks) ⭐ 1,152 | 🐛 192 | 🌐 Python | 📅 2019-02-19 : modular framework that enables building neural network models
   * [Passage](https://github.com/IndicoDataSolutions/Passage) ⚠️ Archived : Library for text analysis with RNNs
   * [theano-rnn](https://github.com/gwtaylor/theano-rnn) ⭐ 377 | 🐛 7 | 🌐 Python | 📅 2017-04-18 by Graham Taylor
@@ -87,7 +87,7 @@ The project is not actively maintained.
   * [LSTM](https://github.com/wojzaremba/lstm) ⭐ 683 | 🐛 11 | 🌐 Lua | 📅 2018-08-21 by Wojciech Zaremba : Long Short Term Memory Units to train a language model on word level Penn Tree Bank dataset
   * [Oxford](https://github.com/oxford-cs-ml-2015) by Nando de Freitas : Oxford Computer Science - Machine Learning 2015 Practicals
 * [PyTorch](http://pytorch.org/) - Python
-  * [Word-level RNN example](https://github.com/pytorch/examples/tree/master/word_language_model) ⭐ 24,016 | 🐛 252 | 🌐 Python | 📅 2025-09-01 : demonstrates PyTorch's built in RNN modules for language modeling
+  * [Word-level RNN example](https://github.com/pytorch/examples/tree/master/word_language_model) ⭐ 24,017 | 🐛 252 | 🌐 Python | 📅 2025-09-01 : demonstrates PyTorch's built in RNN modules for language modeling
   * [Practical PyTorch tutorials](https://github.com/spro/practical-pytorch) ⚠️ Archived by Sean Robertson : focuses on using RNNs for Natural Language Processing
   * [Deep Learning For NLP In PyTorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) ⭐ 1,956 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-01-22 by Robert Guthrie : written for a Natural Language Processing class at Georgia Tech
 * [DL4J](http://deeplearning4j.org/) by [Skymind](http://www.skymind.io/) : Deep Learning library for Java, Scala & Clojure on Hadoop, Spark & GPUs
@@ -448,4 +448,4 @@ The project is not actively maintained.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
