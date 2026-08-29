@@ -15,8 +15,9 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556
-          }
+            "stars": 34557
+          },
+          "first_seen": "2026-08-29T01:50:22.146Z"
         },
         {
           "node_type": "group",
@@ -36,7 +37,8 @@
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
                 "stars": 43735
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -51,7 +53,8 @@
                 "owner": "nlintz",
                 "repo": "TensorFlow-Tutorials",
                 "stars": 6028
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -65,8 +68,9 @@
                 "last_commit": "2021-08-30T20:14:47Z",
                 "owner": "tensorflow",
                 "repo": "skflow",
-                "stars": 3168
-              }
+                "stars": 3167
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -81,7 +85,8 @@
                 "owner": "sherjilozair",
                 "repo": "char-rnn-tensorflow",
                 "stars": 2659
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             }
           ]
         },
@@ -103,7 +108,8 @@
                 "owner": "Lasagne",
                 "repo": "Lasagne",
                 "stars": 3858
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -118,7 +124,8 @@
                 "owner": "mila-iqia",
                 "repo": "blocks",
                 "stars": 1152
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -133,7 +140,8 @@
                 "owner": "IndicoDataSolutions",
                 "repo": "Passage",
                 "stars": 536
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -148,7 +156,8 @@
                 "owner": "gwtaylor",
                 "repo": "theano-rnn",
                 "stars": 377
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -163,7 +172,8 @@
                 "owner": "Ivaylo-Popov",
                 "repo": "Theano-Lights",
                 "stars": 268
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             }
           ]
         },
@@ -184,8 +194,9 @@
                 "last_commit": "2023-10-24T17:15:27Z",
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12095
-              }
+                "stars": 12097
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -200,7 +211,8 @@
                 "owner": "karpathy",
                 "repo": "neuraltalk2",
                 "stars": 5592
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -215,7 +227,8 @@
                 "owner": "jcjohnson",
                 "repo": "torch-rnn",
                 "stars": 2559
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -230,7 +243,8 @@
                 "owner": "facebookarchive",
                 "repo": "torchnet",
                 "stars": 988
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -245,7 +259,8 @@
                 "owner": "Element-Research",
                 "repo": "rnn",
                 "stars": 941
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -260,7 +275,8 @@
                 "owner": "wojzaremba",
                 "repo": "lstm",
                 "stars": 683
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             }
           ]
         },
@@ -282,7 +298,8 @@
                 "owner": "pytorch",
                 "repo": "examples",
                 "stars": 24017
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -297,7 +314,8 @@
                 "owner": "spro",
                 "repo": "practical-pytorch",
                 "stars": 4539
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -312,7 +330,8 @@
                 "owner": "rguthrie3",
                 "repo": "DeepLearningForNLPInPytorch",
                 "stars": 1956
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             }
           ]
         },
@@ -334,7 +353,8 @@
                 "owner": "deeplearning4j",
                 "repo": "deeplearning4j-examples",
                 "stars": 2505
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             }
           ]
         },
@@ -355,8 +375,9 @@
                 "last_commit": "2020-12-22T22:26:36Z",
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5503
-              }
+                "stars": 5504
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -371,7 +392,8 @@
                 "owner": "IDSIA",
                 "repo": "brainstorm",
                 "stars": 1322
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -386,7 +408,8 @@
                 "owner": "karpathy",
                 "repo": "recurrentjs",
                 "stars": 985
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -401,7 +424,8 @@
                 "owner": "yandex",
                 "repo": "faster-rnnlm",
                 "stars": 562
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             },
             {
               "node_type": "item",
@@ -416,7 +440,8 @@
                 "owner": "5vision",
                 "repo": "DARQN",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             }
           ]
         }
@@ -443,7 +468,8 @@
                     "owner": "jiweil",
                     "repo": "Hierarchical-Neural-Autoencoder",
                     "stars": 219
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:50:22.146Z"
                 }
               ],
               "description": null,
@@ -470,7 +496,8 @@
                 "owner": "wojciechz",
                 "repo": "learning_to_execute",
                 "stars": 481
-              }
+              },
+              "first_seen": "2026-08-29T01:50:22.146Z"
             }
           ],
           "description": null,
@@ -482,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:16:20.237Z",
+    "last_updated": "2026-08-29T01:50:22.146Z",
     "original_repository_info": {
       "archived": false,
       "id": 37458410,
