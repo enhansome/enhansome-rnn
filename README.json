@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Caffe: a fast open framework for deep learning.",
+            "homepage": "http://caffe.berkeleyvision.org/",
             "id": 12791642,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-31T23:10:28Z",
+            "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34557
+            "stars": 34557,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-29T01:50:22.146Z"
         },
@@ -31,12 +40,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+                "homepage": null,
                 "id": 45986162,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-26T19:46:13Z",
+                "open_issues": 228,
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43735
+                "stars": 43735,
+                "topics": [
+                  "deep-learning",
+                  "examples",
+                  "machine-learning",
+                  "python",
+                  "tensorflow",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -47,12 +68,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple tutorials using Google's TensorFlow Framework",
+                "homepage": null,
                 "id": 45946078,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-08-20T07:32:57Z",
+                "open_issues": 16,
                 "owner": "nlintz",
                 "repo": "TensorFlow-Tutorials",
-                "stars": 6028
+                "stars": 6028,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -63,12 +89,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning",
+                "homepage": null,
                 "id": 46443613,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-30T20:14:47Z",
+                "open_issues": 4,
                 "owner": "tensorflow",
                 "repo": "skflow",
-                "stars": 3167
+                "stars": 3167,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -79,12 +110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow ",
+                "homepage": null,
                 "id": 46979489,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-12-24T06:52:01Z",
+                "open_issues": 47,
                 "owner": "sherjilozair",
                 "repo": "char-rnn-tensorflow",
-                "stars": 2659
+                "stars": 2659,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             }
@@ -102,12 +138,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight library to build and train neural networks in Theano",
+                "homepage": "http://lasagne.readthedocs.org/",
                 "id": 23924195,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-03-26T02:58:32Z",
+                "open_issues": 139,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3858
+                "stars": 3858,
+                "topics": [
+                  "deep-learning-library",
+                  "neural-networks",
+                  "python",
+                  "theano"
+                ]
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -118,12 +164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Theano framework for building and training neural networks",
+                "homepage": null,
                 "id": 24829371,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-02-19T12:41:38Z",
+                "open_issues": 192,
                 "owner": "mila-iqia",
                 "repo": "blocks",
-                "stars": 1152
+                "stars": 1152,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -134,12 +185,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A little library for text analysis with RNNs.",
+                "homepage": null,
                 "id": 29309977,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-09-10T17:31:35Z",
+                "open_issues": 12,
                 "owner": "IndicoDataSolutions",
                 "repo": "Passage",
-                "stars": 536
+                "stars": 536,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -150,12 +206,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demonstration of recurrent neural network implemented with Theano",
+                "homepage": null,
                 "id": 4998872,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2017-04-18T08:53:56Z",
+                "open_issues": 7,
                 "owner": "gwtaylor",
                 "repo": "theano-rnn",
-                "stars": 377
+                "stars": 377,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -166,12 +227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning research framework based on Theano",
+                "homepage": null,
                 "id": 32457477,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2015-09-20T11:23:29Z",
+                "open_issues": 0,
                 "owner": "Ivaylo-Popov",
                 "repo": "Theano-Lights",
-                "stars": 268
+                "stars": 268,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             }
@@ -189,12 +255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch",
+                "homepage": null,
                 "id": 36027077,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-10-24T17:15:27Z",
+                "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12097
+                "stars": 12097,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -205,12 +276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient Image Captioning code in Torch, runs on GPU",
+                "homepage": null,
                 "id": 46531155,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-11-07T05:59:20Z",
+                "open_issues": 142,
                 "owner": "karpathy",
                 "repo": "neuraltalk2",
-                "stars": 5592
+                "stars": 5592,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -221,12 +297,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient, reusable RNNs and LSTMs for torch",
+                "homepage": null,
                 "id": 51682497,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2022-06-21T21:10:11Z",
+                "open_issues": 110,
                 "owner": "jcjohnson",
                 "repo": "torch-rnn",
-                "stars": 2559
+                "stars": 2559,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -237,12 +318,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Torch on steroids",
+                "homepage": null,
                 "id": 61539428,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2019-03-27T22:21:16Z",
+                "open_issues": 3,
                 "owner": "facebookarchive",
                 "repo": "torchnet",
-                "stars": 988
+                "stars": 988,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -253,12 +339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recurrent Neural Network library for Torch7's nn",
+                "homepage": null,
                 "id": 32498520,
                 "language": "Lua",
+                "license": "BSD-3-Clause",
                 "last_commit": "2017-12-21T06:29:48Z",
+                "open_issues": 78,
                 "owner": "Element-Research",
                 "repo": "rnn",
-                "stars": 941
+                "stars": 941,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -269,12 +360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 30767013,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2018-08-21T20:06:21Z",
+                "open_issues": 11,
                 "owner": "wojzaremba",
                 "repo": "lstm",
-                "stars": 683
+                "stars": 683,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             }
@@ -292,12 +388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.",
+                "homepage": "https://pytorch.org/examples",
                 "id": 66424871,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-09-01T17:21:47Z",
+                "open_issues": 252,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24017
+                "stars": 24018,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -308,12 +409,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Go to https://github.com/pytorch/tutorials - this repo is deprecated and no longer maintained",
+                "homepage": null,
                 "id": 79684696,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-07-01T04:34:00Z",
+                "open_issues": 89,
                 "owner": "spro",
                 "repo": "practical-pytorch",
-                "stars": 4539
+                "stars": 4539,
+                "topics": [
+                  "natural-language-generation",
+                  "natural-language-processing",
+                  "nlg",
+                  "nlp",
+                  "seq2seq"
+                ]
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -324,12 +436,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An IPython Notebook tutorial on deep learning for natural language processing, including structure prediction.",
+                "homepage": null,
                 "id": 83916714,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-01-22T21:41:03Z",
+                "open_issues": 9,
                 "owner": "rguthrie3",
                 "repo": "DeepLearningForNLPInPytorch",
-                "stars": 1956
+                "stars": 1956,
+                "topics": [
+                  "deep-learning",
+                  "lstm",
+                  "neural-network",
+                  "nlp",
+                  "pytorch",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             }
@@ -347,12 +471,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)",
+                "homepage": "http://deeplearning4j.konduit.ai",
                 "id": 41310523,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-16T10:59:14Z",
+                "open_issues": 88,
                 "owner": "deeplearning4j",
                 "repo": "deeplearning4j-examples",
-                "stars": 2505
+                "stars": 2505,
+                "topics": [
+                  "artificial-intelligence",
+                  "deeplearning",
+                  "deeplearning4j",
+                  "dl4j",
+                  "intellij",
+                  "javafx",
+                  "python",
+                  "zeppelin-notebook"
+                ]
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             }
@@ -370,12 +508,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.",
+                "homepage": null,
                 "id": 27244649,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-22T22:26:36Z",
+                "open_issues": 30,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5504
+                "stars": 5504,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -386,12 +529,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, flexible and fun neural networks.",
+                "homepage": null,
                 "id": 25727564,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-13T16:34:08Z",
+                "open_issues": 27,
                 "owner": "IDSIA",
                 "repo": "brainstorm",
-                "stars": 1322
+                "stars": 1322,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -402,12 +550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Recurrent Neural Networks and LSTMs in Javascript. More generally also arbitrary expression graphs with automatic differentiation.",
+                "homepage": null,
                 "id": 28200223,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2016-11-04T15:42:55Z",
+                "open_issues": 5,
                 "owner": "karpathy",
                 "repo": "recurrentjs",
-                "stars": 985
+                "stars": 985,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -418,12 +571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Faster Recurrent Neural Network Language Modeling Toolkit with Noise Contrastive Estimation and Hierarchical Softmax",
+                "homepage": null,
                 "id": 39773115,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-26T17:52:26Z",
+                "open_issues": 32,
                 "owner": "yandex",
                 "repo": "faster-rnnlm",
-                "stars": 562
+                "stars": 562,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             },
@@ -434,12 +592,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Attention Recurrent Q-Network",
+                "homepage": null,
                 "id": 45750305,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2015-11-07T19:40:16Z",
+                "open_issues": 3,
                 "owner": "5vision",
                 "repo": "DARQN",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             }
@@ -462,12 +625,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 36830331,
                     "language": "Matlab",
+                    "license": null,
                     "last_commit": "2015-09-30T17:19:22Z",
+                    "open_issues": 4,
                     "owner": "jiweil",
                     "repo": "Hierarchical-Neural-Autoencoder",
-                    "stars": 219
+                    "stars": 219,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:50:22.146Z"
                 }
@@ -490,12 +658,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning to Execute",
+                "homepage": null,
                 "id": 26846294,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2016-04-09T18:41:39Z",
+                "open_issues": 2,
                 "owner": "wojciechz",
                 "repo": "learning_to_execute",
-                "stars": 481
+                "stars": 481,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
             }
@@ -509,15 +682,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:50:22.146Z",
+    "last_updated": "2026-08-29T04:18:37.543Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
+      "homepage": null,
       "id": 37458410,
       "language": null,
+      "license": null,
       "last_commit": "2022-02-03T05:56:39Z",
+      "open_issues": 4,
       "owner": "kjw0612",
       "repo": "awesome-rnn",
-      "stars": 6211
+      "stars": 6211,
+      "topics": []
     },
     "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",
     "enhanced_repository": "enhansome/enhansome-rnn",
