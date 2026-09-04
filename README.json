@@ -119,7 +119,7 @@
                 "open_issues": 47,
                 "owner": "sherjilozair",
                 "repo": "char-rnn-tensorflow",
-                "stars": 2659,
+                "stars": 2660,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -147,7 +147,7 @@
                 "open_issues": 139,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3858,
+                "stars": 3857,
                 "topics": [
                   "deep-learning-library",
                   "neural-networks",
@@ -264,7 +264,7 @@
                 "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12099,
+                "stars": 12100,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -397,7 +397,7 @@
                 "open_issues": 253,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24027,
+                "stars": 24030,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -517,7 +517,7 @@
                 "open_issues": 30,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5504,
+                "stars": 5505,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -559,7 +559,7 @@
                 "open_issues": 5,
                 "owner": "karpathy",
                 "repo": "recurrentjs",
-                "stars": 985,
+                "stars": 987,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:13:36.567Z",
+    "last_updated": "2026-09-04T20:56:12.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
