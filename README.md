@@ -4,7 +4,7 @@ A curated list of resources dedicated to recurrent neural networks (closely rela
 
 Maintainers - [Myungsub Choi](https://github.com/myungsub), [Taeksoo Kim](https://github.com/jazzsaxmafia), [Jiwon Kim](https://github.com/kjw0612)
 
-We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,254 | 🐛 3 | 📅 2023-11-16
+We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,184 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,254 | 🐛 3 | 📅 2023-11-16
 
 ## Contributing
 
@@ -55,19 +55,19 @@ The project is not actively maintained.
 
 ## Codes
 
-* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,552 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
+* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,550 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
   * [LRCN](http://jeffdonahue.com/lrcn/) by Jeff Donahue
 * [Tensorflow](https://www.tensorflow.org/) - Python, C++
-  * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,733 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 by aymericdamien
-  * [Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,028 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 by nlintz
+  * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,732 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 by aymericdamien
+  * [Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,027 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 by nlintz
   * [Scikit Flow (skflow)](https://github.com/tensorflow/skflow) ⚠️ Archived - Simplified Scikit-learn like Interface for TensorFlow
-  * [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow) ⭐ 2,660 | 🐛 47 | 🌐 Python | 📅 2020-12-24 by sherjilozair: char-rnn in tensorflow
+  * [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow) ⭐ 2,658 | 🐛 47 | 🌐 Python | 📅 2020-12-24 by sherjilozair: char-rnn in tensorflow
   * [Get started](https://www.tensorflow.org/versions/master/get_started/index.html), [Tutorials](https://www.tensorflow.org/versions/master/tutorials/index.html)
     * [Recurrent Neural Network Tutorial](https://www.tensorflow.org/versions/master/tutorials/recurrent/index.html)
     * [Sequence-to-Sequence Model Tutorial](https://www.tensorflow.org/versions/master/tutorials/seq2seq/index.html)
   * [Keras](http://keras.io/) : (Tensorflow / Theano)-based modular deep learning library similar to Torch
 * [Theano](http://deeplearning.net/software/theano/) - Python
-  * [Lasagne](https://github.com/Lasagne/Lasagne) ⭐ 3,857 | 🐛 139 | 🌐 Python | 📅 2022-03-26 : Lightweight library to build and train neural networks in Theano
+  * [Lasagne](https://github.com/Lasagne/Lasagne) ⭐ 3,858 | 🐛 139 | 🌐 Python | 📅 2022-03-26 : Lightweight library to build and train neural networks in Theano
   * [Blocks](https://github.com/mila-udem/blocks) ⭐ 1,152 | 🐛 192 | 🌐 Python | 📅 2019-02-19 : modular framework that enables building neural network models
   * [Passage](https://github.com/IndicoDataSolutions/Passage) ⚠️ Archived : Library for text analysis with RNNs
   * [theano-rnn](https://github.com/gwtaylor/theano-rnn) ⭐ 377 | 🐛 7 | 🌐 Python | 📅 2017-04-18 by Graham Taylor
@@ -81,7 +81,7 @@ The project is not actively maintained.
 * [Torch](http://torch.ch/) - Lua
   * [char-rnn](https://github.com/karpathy/char-rnn) ⭐ 12,100 | 🐛 111 | 🌐 Lua | 📅 2023-10-24 by Andrej Karpathy : multi-layer RNN/LSTM/GRU for training/sampling from character-level language models
   * [neuraltalk2](https://github.com/karpathy/neuraltalk2) ⭐ 5,594 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 by Andrej Karpathy : Recurrent Neural Network captions image, much faster and better version of the original [neuraltalk](https://github.com/karpathy/neuraltalk) ⭐ 5,504 | 🐛 30 | 🌐 Python | 📅 2020-12-22
-  * [torch-rnn](https://github.com/jcjohnson/torch-rnn) ⭐ 2,559 | 🐛 110 | 🌐 Lua | 📅 2022-06-21 by Justin Johnson : reusable RNN/LSTM modules for torch7 - much faster and memory efficient reimplementation of char-rnn
+  * [torch-rnn](https://github.com/jcjohnson/torch-rnn) ⭐ 2,558 | 🐛 110 | 🌐 Lua | 📅 2022-06-21 by Justin Johnson : reusable RNN/LSTM modules for torch7 - much faster and memory efficient reimplementation of char-rnn
   * [torchnet](https://github.com/torchnet/torchnet) ⚠️ Archived : modular framework that enables building neural network models
   * [rnn](https://github.com/Element-Research/rnn) ⭐ 941 | 🐛 78 | 🌐 Lua | 📅 2017-12-21 by Nicholas Leonard : general library for implementing RNN, LSTM, BRNN and BLSTM (highly unit tested).
   * [LSTM](https://github.com/wojzaremba/lstm) ⭐ 683 | 🐛 11 | 🌐 Lua | 📅 2018-08-21 by Wojciech Zaremba : Long Short Term Memory Units to train a language model on word level Penn Tree Bank dataset
@@ -448,4 +448,4 @@ The project is not actively maintained.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
