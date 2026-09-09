@@ -264,7 +264,7 @@
                 "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12100,
+                "stars": 12099,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -397,7 +397,7 @@
                 "open_issues": 253,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24032,
+                "stars": 24036,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -538,7 +538,7 @@
                 "open_issues": 27,
                 "owner": "IDSIA",
                 "repo": "brainstorm",
-                "stars": 1322,
+                "stars": 1323,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T21:19:30.467Z",
+    "last_updated": "2026-09-09T21:05:02.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
