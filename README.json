@@ -19,7 +19,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34552,
+            "stars": 34551,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -49,7 +49,7 @@
                 "open_issues": 229,
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43741,
+                "stars": 43742,
                 "topics": [
                   "deep-learning",
                   "examples",
@@ -77,7 +77,7 @@
                 "open_issues": 16,
                 "owner": "nlintz",
                 "repo": "TensorFlow-Tutorials",
-                "stars": 6028,
+                "stars": 6029,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -236,7 +236,7 @@
                 "open_issues": 0,
                 "owner": "Ivaylo-Popov",
                 "repo": "Theano-Lights",
-                "stars": 268,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -264,7 +264,7 @@
                 "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12101,
+                "stars": 12104,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -285,7 +285,7 @@
                 "open_issues": 142,
                 "owner": "karpathy",
                 "repo": "neuraltalk2",
-                "stars": 5595,
+                "stars": 5596,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -517,7 +517,7 @@
                 "open_issues": 30,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5504,
+                "stars": 5503,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -559,7 +559,7 @@
                 "open_issues": 5,
                 "owner": "karpathy",
                 "repo": "recurrentjs",
-                "stars": 986,
+                "stars": 987,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:07:30.389Z",
+    "last_updated": "2026-09-22T21:34:17.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
