@@ -19,7 +19,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34551,
+            "stars": 34552,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -49,7 +49,7 @@
                 "open_issues": 229,
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43742,
+                "stars": 43745,
                 "topics": [
                   "deep-learning",
                   "examples",
@@ -77,7 +77,7 @@
                 "open_issues": 16,
                 "owner": "nlintz",
                 "repo": "TensorFlow-Tutorials",
-                "stars": 6029,
+                "stars": 6028,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -285,7 +285,7 @@
                 "open_issues": 142,
                 "owner": "karpathy",
                 "repo": "neuraltalk2",
-                "stars": 5596,
+                "stars": 5598,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -397,7 +397,7 @@
                 "open_issues": 254,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24049,
+                "stars": 24050,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -418,7 +418,7 @@
                 "open_issues": 89,
                 "owner": "spro",
                 "repo": "practical-pytorch",
-                "stars": 4538,
+                "stars": 4539,
                 "topics": [
                   "natural-language-generation",
                   "natural-language-processing",
@@ -517,7 +517,7 @@
                 "open_issues": 30,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5503,
+                "stars": 5504,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -538,7 +538,7 @@
                 "open_issues": 27,
                 "owner": "IDSIA",
                 "repo": "brainstorm",
-                "stars": 1322,
+                "stars": 1323,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T21:34:17.822Z",
+    "last_updated": "2026-09-23T21:40:20.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
