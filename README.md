@@ -8,7 +8,7 @@ We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612
 
 ## Contributing
 
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-rnn/pulls) ⭐ 6,211 | 🐛 4 | 📅 2022-02-03, email Myungsub Choi (<cms6539@gmail.com>) or join our chats to add links.
+Please feel free to [pull requests](https://github.com/kjw0612/awesome-rnn/pulls), email Myungsub Choi (<cms6539@gmail.com>) or join our chats to add links.
 
 The project is not actively maintained.
 
@@ -87,7 +87,7 @@ The project is not actively maintained.
   * [LSTM](https://github.com/wojzaremba/lstm) ⭐ 683 | 🐛 11 | 🌐 Lua | 📅 2018-08-21 by Wojciech Zaremba : Long Short Term Memory Units to train a language model on word level Penn Tree Bank dataset
   * [Oxford](https://github.com/oxford-cs-ml-2015) by Nando de Freitas : Oxford Computer Science - Machine Learning 2015 Practicals
 * [PyTorch](http://pytorch.org/) - Python
-  * [Word-level RNN example](https://github.com/pytorch/examples/tree/master/word_language_model) ⭐ 24,052 | 🐛 254 | 🌐 Python | 📅 2025-09-01 : demonstrates PyTorch's built in RNN modules for language modeling
+  * [Word-level RNN example](https://github.com/pytorch/examples/tree/master/word_language_model) ⭐ 24,053 | 🐛 254 | 🌐 Python | 📅 2025-09-01 : demonstrates PyTorch's built in RNN modules for language modeling
   * [Practical PyTorch tutorials](https://github.com/spro/practical-pytorch) ⚠️ Archived by Sean Robertson : focuses on using RNNs for Natural Language Processing
   * [Deep Learning For NLP In PyTorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) ⭐ 1,955 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-01-22 by Robert Guthrie : written for a Natural Language Processing class at Georgia Tech
 * [DL4J](http://deeplearning4j.org/) by [Skymind](http://www.skymind.io/) : Deep Learning library for Java, Scala & Clojure on Hadoop, Spark & GPUs
@@ -448,4 +448,4 @@ The project is not actively maintained.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

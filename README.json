@@ -397,7 +397,7 @@
                 "open_issues": 254,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24052,
+                "stars": 24053,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -467,7 +467,7 @@
             {
               "node_type": "item",
               "title": "rnn examples",
-              "description": null,
+              "description": "deeplearning4j/deeplearning4j-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -654,7 +654,7 @@
             {
               "node_type": "item",
               "title": "Wojciech Zaremba and Ilya Sutskever, Learning to Execute, arXiv:1410.4615 [Paper",
-              "description": "] [Code]",
+              "description": "wojciechz/learning_to_execute",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:27:08.142Z",
+    "last_updated": "2026-10-03T05:06:26.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
