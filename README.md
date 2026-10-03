@@ -58,7 +58,7 @@ The project is not actively maintained.
 * [Caffe](https://github.com/BVLC/caffe) ⭐ 34,550 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
   * [LRCN](http://jeffdonahue.com/lrcn/) by Jeff Donahue
 * [Tensorflow](https://www.tensorflow.org/) - Python, C++
-  * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,741 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 by aymericdamien
+  * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,740 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 by aymericdamien
   * [Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,032 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 by nlintz
   * [Scikit Flow (skflow)](https://github.com/tensorflow/skflow) ⚠️ Archived - Simplified Scikit-learn like Interface for TensorFlow
   * [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow) ⭐ 2,660 | 🐛 47 | 🌐 Python | 📅 2020-12-24 by sherjilozair: char-rnn in tensorflow

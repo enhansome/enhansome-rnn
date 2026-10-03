@@ -49,7 +49,7 @@
                 "open_issues": 229,
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43741,
+                "stars": 43740,
                 "topics": [
                   "deep-learning",
                   "examples",
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:26.481Z",
+    "last_updated": "2026-10-03T21:38:34.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
