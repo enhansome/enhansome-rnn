@@ -19,7 +19,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34548,
+            "stars": 34549,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -264,7 +264,7 @@
                 "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12110,
+                "stars": 12109,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -397,7 +397,7 @@
                 "open_issues": 254,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24064,
+                "stars": 24062,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -538,7 +538,7 @@
                 "open_issues": 27,
                 "owner": "IDSIA",
                 "repo": "brainstorm",
-                "stars": 1325,
+                "stars": 1326,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T21:55:56.153Z",
+    "last_updated": "2026-10-11T22:17:52.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
