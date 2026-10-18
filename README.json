@@ -173,7 +173,7 @@
                 "open_issues": 192,
                 "owner": "mila-iqia",
                 "repo": "blocks",
-                "stars": 1151,
+                "stars": 1150,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -369,7 +369,7 @@
                 "open_issues": 11,
                 "owner": "wojzaremba",
                 "repo": "lstm",
-                "stars": 683,
+                "stars": 682,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -394,10 +394,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-09-01T17:21:47Z",
-                "open_issues": 254,
+                "open_issues": 255,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24071,
+                "stars": 24072,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -538,7 +538,7 @@
                 "open_issues": 27,
                 "owner": "IDSIA",
                 "repo": "brainstorm",
-                "stars": 1326,
+                "stars": 1329,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -634,7 +634,7 @@
                     "open_issues": 4,
                     "owner": "jiweil",
                     "repo": "Hierarchical-Neural-Autoencoder",
-                    "stars": 219,
+                    "stars": 218,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:50:22.146Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T20:50:07.957Z",
+    "last_updated": "2026-10-18T20:57:36.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
