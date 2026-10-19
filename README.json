@@ -19,7 +19,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34557,
+            "stars": 34558,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -173,7 +173,7 @@
                 "open_issues": 192,
                 "owner": "mila-iqia",
                 "repo": "blocks",
-                "stars": 1150,
+                "stars": 1151,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -264,7 +264,7 @@
                 "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12120,
+                "stars": 12124,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -285,7 +285,7 @@
                 "open_issues": 142,
                 "owner": "karpathy",
                 "repo": "neuraltalk2",
-                "stars": 5600,
+                "stars": 5601,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -306,7 +306,7 @@
                 "open_issues": 110,
                 "owner": "jcjohnson",
                 "repo": "torch-rnn",
-                "stars": 2562,
+                "stars": 2561,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -397,7 +397,7 @@
                 "open_issues": 255,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24072,
+                "stars": 24073,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -480,7 +480,7 @@
                 "open_issues": 88,
                 "owner": "deeplearning4j",
                 "repo": "deeplearning4j-examples",
-                "stars": 2505,
+                "stars": 2506,
                 "topics": [
                   "artificial-intelligence",
                   "deeplearning",
@@ -517,7 +517,7 @@
                 "open_issues": 30,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5508,
+                "stars": 5509,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -634,7 +634,7 @@
                     "open_issues": 4,
                     "owner": "jiweil",
                     "repo": "Hierarchical-Neural-Autoencoder",
-                    "stars": 218,
+                    "stars": 219,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:50:22.146Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T20:57:36.698Z",
+    "last_updated": "2026-10-19T22:33:37.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
