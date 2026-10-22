@@ -19,7 +19,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34554,
+            "stars": 34552,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -49,7 +49,7 @@
                 "open_issues": 229,
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43744,
+                "stars": 43742,
                 "topics": [
                   "deep-learning",
                   "examples",
@@ -77,7 +77,7 @@
                 "open_issues": 16,
                 "owner": "nlintz",
                 "repo": "TensorFlow-Tutorials",
-                "stars": 6029,
+                "stars": 6030,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -264,7 +264,7 @@
                 "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12126,
+                "stars": 12128,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -282,10 +282,10 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2017-11-07T05:59:20Z",
-                "open_issues": 142,
+                "open_issues": 143,
                 "owner": "karpathy",
                 "repo": "neuraltalk2",
-                "stars": 5603,
+                "stars": 5604,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -397,7 +397,7 @@
                 "open_issues": 256,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24075,
+                "stars": 24076,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -514,7 +514,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2020-12-22T22:26:36Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
                 "stars": 5511,
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T21:53:28.630Z",
+    "last_updated": "2026-10-22T21:50:37.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
@@ -694,7 +694,7 @@
       "open_issues": 4,
       "owner": "kjw0612",
       "repo": "awesome-rnn",
-      "stars": 6213,
+      "stars": 6212,
       "topics": []
     },
     "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",
