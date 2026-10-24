@@ -58,8 +58,8 @@ The project is not actively maintained.
 * [Caffe](https://github.com/BVLC/caffe) ⭐ 34,553 | 🐛 1,176 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
   * [LRCN](http://jeffdonahue.com/lrcn/) by Jeff Donahue
 * [Tensorflow](https://www.tensorflow.org/) - Python, C++
-  * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,742 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 by aymericdamien
-  * [Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,030 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 by nlintz
+  * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,744 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 by aymericdamien
+  * [Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,031 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 by nlintz
   * [Scikit Flow (skflow)](https://github.com/tensorflow/skflow) ⚠️ Archived - Simplified Scikit-learn like Interface for TensorFlow
   * [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow) ⭐ 2,660 | 🐛 47 | 🌐 Python | 📅 2020-12-24 by sherjilozair: char-rnn in tensorflow
   * [Get started](https://www.tensorflow.org/versions/master/get_started/index.html), [Tutorials](https://www.tensorflow.org/versions/master/tutorials/index.html)
@@ -83,11 +83,11 @@ The project is not actively maintained.
   * [neuraltalk2](https://github.com/karpathy/neuraltalk2) ⭐ 5,604 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2017-11-07 by Andrej Karpathy : Recurrent Neural Network captions image, much faster and better version of the original [neuraltalk](https://github.com/karpathy/neuraltalk) ⭐ 5,511 | 🐛 31 | 🌐 Python | 📅 2020-12-22
   * [torch-rnn](https://github.com/jcjohnson/torch-rnn) ⭐ 2,561 | 🐛 110 | 🌐 Lua | 📅 2022-06-21 by Justin Johnson : reusable RNN/LSTM modules for torch7 - much faster and memory efficient reimplementation of char-rnn
   * [torchnet](https://github.com/torchnet/torchnet) ⚠️ Archived : modular framework that enables building neural network models
-  * [rnn](https://github.com/Element-Research/rnn) ⭐ 939 | 🐛 78 | 🌐 Lua | 📅 2017-12-21 by Nicholas Leonard : general library for implementing RNN, LSTM, BRNN and BLSTM (highly unit tested).
+  * [rnn](https://github.com/Element-Research/rnn) ⭐ 938 | 🐛 78 | 🌐 Lua | 📅 2017-12-21 by Nicholas Leonard : general library for implementing RNN, LSTM, BRNN and BLSTM (highly unit tested).
   * [LSTM](https://github.com/wojzaremba/lstm) ⭐ 682 | 🐛 11 | 🌐 Lua | 📅 2018-08-21 by Wojciech Zaremba : Long Short Term Memory Units to train a language model on word level Penn Tree Bank dataset
   * [Oxford](https://github.com/oxford-cs-ml-2015) by Nando de Freitas : Oxford Computer Science - Machine Learning 2015 Practicals
 * [PyTorch](http://pytorch.org/) - Python
-  * [Word-level RNN example](https://github.com/pytorch/examples/tree/master/word_language_model) ⭐ 24,075 | 🐛 256 | 🌐 Python | 📅 2025-09-01 : demonstrates PyTorch's built in RNN modules for language modeling
+  * [Word-level RNN example](https://github.com/pytorch/examples/tree/master/word_language_model) ⭐ 24,076 | 🐛 256 | 🌐 Python | 📅 2025-09-01 : demonstrates PyTorch's built in RNN modules for language modeling
   * [Practical PyTorch tutorials](https://github.com/spro/practical-pytorch) ⚠️ Archived by Sean Robertson : focuses on using RNNs for Natural Language Processing
   * [Deep Learning For NLP In PyTorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) ⭐ 1,956 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-01-22 by Robert Guthrie : written for a Natural Language Processing class at Georgia Tech
 * [DL4J](http://deeplearning4j.org/) by [Skymind](http://www.skymind.io/) : Deep Learning library for Java, Scala & Clojure on Hadoop, Spark & GPUs
@@ -448,4 +448,4 @@ The project is not actively maintained.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
