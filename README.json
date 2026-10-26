@@ -49,7 +49,7 @@
                 "open_issues": 229,
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43747,
+                "stars": 43746,
                 "topics": [
                   "deep-learning",
                   "examples",
@@ -264,7 +264,7 @@
                 "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12128,
+                "stars": 12127,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -397,7 +397,7 @@
                 "open_issues": 256,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24077,
+                "stars": 24078,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -418,7 +418,7 @@
                 "open_issues": 89,
                 "owner": "spro",
                 "repo": "practical-pytorch",
-                "stars": 4538,
+                "stars": 4537,
                 "topics": [
                   "natural-language-generation",
                   "natural-language-processing",
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T21:05:52.591Z",
+    "last_updated": "2026-10-26T22:49:26.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
