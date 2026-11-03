@@ -19,7 +19,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34554,
+            "stars": 34553,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -49,7 +49,7 @@
                 "open_issues": 229,
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43743,
+                "stars": 43742,
                 "topics": [
                   "deep-learning",
                   "examples",
@@ -77,7 +77,7 @@
                 "open_issues": 16,
                 "owner": "nlintz",
                 "repo": "TensorFlow-Tutorials",
-                "stars": 6035,
+                "stars": 6036,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -147,7 +147,7 @@
                 "open_issues": 140,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3857,
+                "stars": 3856,
                 "topics": [
                   "deep-learning-library",
                   "neural-networks",
@@ -264,7 +264,7 @@
                 "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12132,
+                "stars": 12131,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -397,7 +397,7 @@
                 "open_issues": 256,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24083,
+                "stars": 24082,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:15:17.796Z",
+    "last_updated": "2026-11-03T01:08:36.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
