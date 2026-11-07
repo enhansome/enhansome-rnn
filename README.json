@@ -285,7 +285,7 @@
                 "open_issues": 143,
                 "owner": "karpathy",
                 "repo": "neuraltalk2",
-                "stars": 5605,
+                "stars": 5604,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -397,7 +397,7 @@
                 "open_issues": 256,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24089,
+                "stars": 24091,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -667,7 +667,7 @@
                 "open_issues": 2,
                 "owner": "wojciechz",
                 "repo": "learning_to_execute",
-                "stars": 481,
+                "stars": 482,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:24:17.962Z",
+    "last_updated": "2026-11-07T22:11:23.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",

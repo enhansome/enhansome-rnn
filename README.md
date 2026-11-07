@@ -4,7 +4,7 @@ A curated list of resources dedicated to recurrent neural networks (closely rela
 
 Maintainers - [Myungsub Choi](https://github.com/myungsub), [Taeksoo Kim](https://github.com/jazzsaxmafia), [Jiwon Kim](https://github.com/kjw0612)
 
-We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,193 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,257 | 🐛 3 | 📅 2023-11-16
+We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,192 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,257 | 🐛 3 | 📅 2023-11-16
 
 ## Contributing
 
@@ -80,14 +80,14 @@ The project is not actively maintained.
   * [Keras](http://keras.io/) : (Tensorflow / Theano)-based modular deep learning library similar to Torch
 * [Torch](http://torch.ch/) - Lua
   * [char-rnn](https://github.com/karpathy/char-rnn) ⭐ 12,134 | 🐛 111 | 🌐 Lua | 📅 2023-10-24 by Andrej Karpathy : multi-layer RNN/LSTM/GRU for training/sampling from character-level language models
-  * [neuraltalk2](https://github.com/karpathy/neuraltalk2) ⭐ 5,605 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2017-11-07 by Andrej Karpathy : Recurrent Neural Network captions image, much faster and better version of the original [neuraltalk](https://github.com/karpathy/neuraltalk) ⭐ 5,514 | 🐛 31 | 🌐 Python | 📅 2020-12-22
+  * [neuraltalk2](https://github.com/karpathy/neuraltalk2) ⭐ 5,604 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2017-11-07 by Andrej Karpathy : Recurrent Neural Network captions image, much faster and better version of the original [neuraltalk](https://github.com/karpathy/neuraltalk) ⭐ 5,514 | 🐛 31 | 🌐 Python | 📅 2020-12-22
   * [torch-rnn](https://github.com/jcjohnson/torch-rnn) ⭐ 2,559 | 🐛 110 | 🌐 Lua | 📅 2022-06-21 by Justin Johnson : reusable RNN/LSTM modules for torch7 - much faster and memory efficient reimplementation of char-rnn
   * [torchnet](https://github.com/torchnet/torchnet) ⚠️ Archived : modular framework that enables building neural network models
   * [rnn](https://github.com/Element-Research/rnn) ⭐ 938 | 🐛 78 | 🌐 Lua | 📅 2017-12-21 by Nicholas Leonard : general library for implementing RNN, LSTM, BRNN and BLSTM (highly unit tested).
   * [LSTM](https://github.com/wojzaremba/lstm) ⭐ 682 | 🐛 11 | 🌐 Lua | 📅 2018-08-21 by Wojciech Zaremba : Long Short Term Memory Units to train a language model on word level Penn Tree Bank dataset
   * [Oxford](https://github.com/oxford-cs-ml-2015) by Nando de Freitas : Oxford Computer Science - Machine Learning 2015 Practicals
 * [PyTorch](http://pytorch.org/) - Python
-  * [Word-level RNN example](https://github.com/pytorch/examples/tree/master/word_language_model) ⭐ 24,089 | 🐛 256 | 🌐 Python | 📅 2025-09-01 : demonstrates PyTorch's built in RNN modules for language modeling
+  * [Word-level RNN example](https://github.com/pytorch/examples/tree/master/word_language_model) ⭐ 24,091 | 🐛 256 | 🌐 Python | 📅 2025-09-01 : demonstrates PyTorch's built in RNN modules for language modeling
   * [Practical PyTorch tutorials](https://github.com/spro/practical-pytorch) ⚠️ Archived by Sean Robertson : focuses on using RNNs for Natural Language Processing
   * [Deep Learning For NLP In PyTorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) ⭐ 1,957 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-01-22 by Robert Guthrie : written for a Natural Language Processing class at Georgia Tech
 * [DL4J](http://deeplearning4j.org/) by [Skymind](http://www.skymind.io/) : Deep Learning library for Java, Scala & Clojure on Hadoop, Spark & GPUs
@@ -384,7 +384,7 @@ The project is not actively maintained.
 
 ### Other
 
-* Wojciech Zaremba and Ilya Sutskever, *Learning to Execute*, arXiv:1410.4615 \[[Paper](http://arxiv.org/pdf/1410.4615.pdf)] \[[Code](https://github.com/wojciechz/learning_to_execute) ⭐ 481 | 🐛 2 | 🌐 Lua | 📅 2016-04-09]
+* Wojciech Zaremba and Ilya Sutskever, *Learning to Execute*, arXiv:1410.4615 \[[Paper](http://arxiv.org/pdf/1410.4615.pdf)] \[[Code](https://github.com/wojciechz/learning_to_execute) ⭐ 482 | 🐛 2 | 🌐 Lua | 📅 2016-04-09]
 * Alex Graves, *Generating Sequences With Recurrent Neural Networks,* arXiv:1308.0850 [\[Paper\]](http://arxiv.org/abs/1308.0850)
 * Volodymyr Mnih, Nicolas Heess, Alex Graves, and Koray Kavukcuoglu, *Recurrent Models of Visual Attention*, NIPS 2014 / arXiv:1406.6247 \[[Paper](http://arxiv.org/pdf/1406.6247.pdf)]
 * Samy Bengio, Oriol Vinyals, Navdeep Jaitly, and Noam Shazeer, *Scheduled Sampling for Sequence Prediction with
@@ -448,4 +448,4 @@ The project is not actively maintained.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
