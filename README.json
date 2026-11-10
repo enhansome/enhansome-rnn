@@ -19,7 +19,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34557,
+            "stars": 34556,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -119,7 +119,7 @@
                 "open_issues": 47,
                 "owner": "sherjilozair",
                 "repo": "char-rnn-tensorflow",
-                "stars": 2661,
+                "stars": 2659,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -264,7 +264,7 @@
                 "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12134,
+                "stars": 12133,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -285,7 +285,7 @@
                 "open_issues": 143,
                 "owner": "karpathy",
                 "repo": "neuraltalk2",
-                "stars": 5604,
+                "stars": 5603,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -306,7 +306,7 @@
                 "open_issues": 110,
                 "owner": "jcjohnson",
                 "repo": "torch-rnn",
-                "stars": 2559,
+                "stars": 2557,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -397,7 +397,7 @@
                 "open_issues": 256,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24089,
+                "stars": 24088,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -445,7 +445,7 @@
                 "open_issues": 9,
                 "owner": "rguthrie3",
                 "repo": "DeepLearningForNLPInPytorch",
-                "stars": 1957,
+                "stars": 1956,
                 "topics": [
                   "deep-learning",
                   "lstm",
@@ -517,7 +517,7 @@
                 "open_issues": 31,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5513,
+                "stars": 5512,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -559,7 +559,7 @@
                 "open_issues": 5,
                 "owner": "karpathy",
                 "repo": "recurrentjs",
-                "stars": 990,
+                "stars": 988,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:21:04.014Z",
+    "last_updated": "2026-11-10T01:43:11.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
@@ -694,7 +694,7 @@
       "open_issues": 4,
       "owner": "kjw0612",
       "repo": "awesome-rnn",
-      "stars": 6210,
+      "stars": 6208,
       "topics": []
     },
     "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",
