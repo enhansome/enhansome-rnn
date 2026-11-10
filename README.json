@@ -19,7 +19,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556,
+            "stars": 34555,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -49,7 +49,7 @@
                 "open_issues": 229,
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43739,
+                "stars": 43735,
                 "topics": [
                   "deep-learning",
                   "examples",
@@ -264,7 +264,7 @@
                 "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12133,
+                "stars": 12134,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -397,7 +397,7 @@
                 "open_issues": 256,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24088,
+                "stars": 24089,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -559,7 +559,7 @@
                 "open_issues": 5,
                 "owner": "karpathy",
                 "repo": "recurrentjs",
-                "stars": 988,
+                "stars": 989,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T01:43:11.919Z",
+    "last_updated": "2026-11-10T23:38:07.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
