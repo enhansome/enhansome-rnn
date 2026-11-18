@@ -19,7 +19,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556,
+            "stars": 34557,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -49,7 +49,7 @@
                 "open_issues": 229,
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43730,
+                "stars": 43728,
                 "topics": [
                   "deep-learning",
                   "examples",
@@ -147,7 +147,7 @@
                 "open_issues": 140,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3853,
+                "stars": 3852,
                 "topics": [
                   "deep-learning-library",
                   "neural-networks",
@@ -264,7 +264,7 @@
                 "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12140,
+                "stars": 12141,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -306,7 +306,7 @@
                 "open_issues": 110,
                 "owner": "jcjohnson",
                 "repo": "torch-rnn",
-                "stars": 2558,
+                "stars": 2559,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -397,7 +397,7 @@
                 "open_issues": 256,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24095,
+                "stars": 24097,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:22.146Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T01:57:02.118Z",
+    "last_updated": "2026-11-18T01:10:02.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
@@ -694,7 +694,7 @@
       "open_issues": 4,
       "owner": "kjw0612",
       "repo": "awesome-rnn",
-      "stars": 6209,
+      "stars": 6208,
       "topics": []
     },
     "original_repository_sha": "a3168a197531e0a68c45ed97b3bd2cd1380c4b30",
