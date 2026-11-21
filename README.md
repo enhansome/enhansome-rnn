@@ -79,7 +79,7 @@ The project is not actively maintained.
   * [Pylearn2](http://deeplearning.net/software/pylearn2/) : Library that wraps a lot of models and training algorithms in deep learning
   * [Keras](http://keras.io/) : (Tensorflow / Theano)-based modular deep learning library similar to Torch
 * [Torch](http://torch.ch/) - Lua
-  * [char-rnn](https://github.com/karpathy/char-rnn) ⭐ 12,142 | 🐛 112 | 🌐 Lua | 📅 2023-10-24 by Andrej Karpathy : multi-layer RNN/LSTM/GRU for training/sampling from character-level language models
+  * [char-rnn](https://github.com/karpathy/char-rnn) ⭐ 12,143 | 🐛 112 | 🌐 Lua | 📅 2023-10-24 by Andrej Karpathy : multi-layer RNN/LSTM/GRU for training/sampling from character-level language models
   * [neuraltalk2](https://github.com/karpathy/neuraltalk2) ⭐ 5,605 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2017-11-07 by Andrej Karpathy : Recurrent Neural Network captions image, much faster and better version of the original [neuraltalk](https://github.com/karpathy/neuraltalk) ⭐ 5,513 | 🐛 31 | 🌐 Python | 📅 2020-12-22
   * [torch-rnn](https://github.com/jcjohnson/torch-rnn) ⭐ 2,560 | 🐛 110 | 🌐 Lua | 📅 2022-06-21 by Justin Johnson : reusable RNN/LSTM modules for torch7 - much faster and memory efficient reimplementation of char-rnn
   * [torchnet](https://github.com/torchnet/torchnet) ⚠️ Archived : modular framework that enables building neural network models
@@ -87,11 +87,11 @@ The project is not actively maintained.
   * [LSTM](https://github.com/wojzaremba/lstm) ⭐ 682 | 🐛 11 | 🌐 Lua | 📅 2018-08-21 by Wojciech Zaremba : Long Short Term Memory Units to train a language model on word level Penn Tree Bank dataset
   * [Oxford](https://github.com/oxford-cs-ml-2015) by Nando de Freitas : Oxford Computer Science - Machine Learning 2015 Practicals
 * [PyTorch](http://pytorch.org/) - Python
-  * [Word-level RNN example](https://github.com/pytorch/examples/tree/master/word_language_model) ⭐ 24,100 | 🐛 256 | 🌐 Python | 📅 2025-09-01 : demonstrates PyTorch's built in RNN modules for language modeling
+  * [Word-level RNN example](https://github.com/pytorch/examples/tree/master/word_language_model) ⭐ 24,101 | 🐛 256 | 🌐 Python | 📅 2025-09-01 : demonstrates PyTorch's built in RNN modules for language modeling
   * [Practical PyTorch tutorials](https://github.com/spro/practical-pytorch) ⚠️ Archived by Sean Robertson : focuses on using RNNs for Natural Language Processing
   * [Deep Learning For NLP In PyTorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) ⭐ 1,955 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-01-22 by Robert Guthrie : written for a Natural Language Processing class at Georgia Tech
 * [DL4J](http://deeplearning4j.org/) by [Skymind](http://www.skymind.io/) : Deep Learning library for Java, Scala & Clojure on Hadoop, Spark & GPUs
-  * [rnn examples](https://github.com/deeplearning4j/dl4j-examples/tree/master/dl4j-examples/src/main/java/org/deeplearning4j/examples/recurrent) ⭐ 2,503 | 🐛 88 | 🌐 Java | 📅 2026-07-16
+  * [rnn examples](https://github.com/deeplearning4j/dl4j-examples/tree/master/dl4j-examples/src/main/java/org/deeplearning4j/examples/recurrent) ⭐ 2,502 | 🐛 88 | 🌐 Java | 📅 2026-07-16
   * [Documentation](http://deeplearning4j.org/) (Also in [Chinese](http://deeplearning4j.org/zh-index.html), [Japanese](http://deeplearning4j.org/ja-index.html), [Korean](http://deeplearning4j.org/kr-index.html)) : [RNN](http://deeplearning4j.org/usingrnns.html), [LSTM](http://deeplearning4j.org/lstm.html)
 * Etc.
   * [neuraltalk](https://github.com/karpathy/neuraltalk) ⭐ 5,513 | 🐛 31 | 🌐 Python | 📅 2020-12-22 by Andrej Karpathy : numpy-based RNN/LSTM implementation
