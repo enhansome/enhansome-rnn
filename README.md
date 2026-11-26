@@ -4,7 +4,7 @@ A curated list of resources dedicated to recurrent neural networks (closely rela
 
 Maintainers - [Myungsub Choi](https://github.com/myungsub), [Taeksoo Kim](https://github.com/jazzsaxmafia), [Jiwon Kim](https://github.com/kjw0612)
 
-We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,198 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,258 | 🐛 3 | 📅 2023-11-16
+We have pages for other topics: [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,197 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,258 | 🐛 3 | 📅 2023-11-16
 
 ## Contributing
 
@@ -55,11 +55,11 @@ The project is not actively maintained.
 
 ## Codes
 
-* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,553 | 🐛 1,176 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
+* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,552 | 🐛 1,176 | 🌐 C++ | 📅 2024-07-31 - C++ with MATLAB/Python wrappers
   * [LRCN](http://jeffdonahue.com/lrcn/) by Jeff Donahue
 * [Tensorflow](https://www.tensorflow.org/) - Python, C++
   * [Notebook examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,733 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2026-11-13 by aymericdamien
-  * [Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,038 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 by nlintz
+  * [Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,036 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 by nlintz
   * [Scikit Flow (skflow)](https://github.com/tensorflow/skflow) ⚠️ Archived - Simplified Scikit-learn like Interface for TensorFlow
   * [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow) ⭐ 2,659 | 🐛 47 | 🌐 Python | 📅 2020-12-24 by sherjilozair: char-rnn in tensorflow
   * [Get started](https://www.tensorflow.org/versions/master/get_started/index.html), [Tutorials](https://www.tensorflow.org/versions/master/tutorials/index.html)
@@ -67,7 +67,7 @@ The project is not actively maintained.
     * [Sequence-to-Sequence Model Tutorial](https://www.tensorflow.org/versions/master/tutorials/seq2seq/index.html)
   * [Keras](http://keras.io/) : (Tensorflow / Theano)-based modular deep learning library similar to Torch
 * [Theano](http://deeplearning.net/software/theano/) - Python
-  * [Lasagne](https://github.com/Lasagne/Lasagne) ⭐ 3,851 | 🐛 140 | 🌐 Python | 📅 2022-03-26 : Lightweight library to build and train neural networks in Theano
+  * [Lasagne](https://github.com/Lasagne/Lasagne) ⭐ 3,850 | 🐛 140 | 🌐 Python | 📅 2022-03-26 : Lightweight library to build and train neural networks in Theano
   * [Blocks](https://github.com/mila-udem/blocks) ⭐ 1,150 | 🐛 192 | 🌐 Python | 📅 2019-02-19 : modular framework that enables building neural network models
   * [Passage](https://github.com/IndicoDataSolutions/Passage) ⚠️ Archived : Library for text analysis with RNNs
   * [theano-rnn](https://github.com/gwtaylor/theano-rnn) ⭐ 377 | 🐛 7 | 🌐 Python | 📅 2017-04-18 by Graham Taylor
@@ -80,7 +80,7 @@ The project is not actively maintained.
   * [Keras](http://keras.io/) : (Tensorflow / Theano)-based modular deep learning library similar to Torch
 * [Torch](http://torch.ch/) - Lua
   * [char-rnn](https://github.com/karpathy/char-rnn) ⭐ 12,146 | 🐛 112 | 🌐 Lua | 📅 2023-10-24 by Andrej Karpathy : multi-layer RNN/LSTM/GRU for training/sampling from character-level language models
-  * [neuraltalk2](https://github.com/karpathy/neuraltalk2) ⭐ 5,605 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2017-11-07 by Andrej Karpathy : Recurrent Neural Network captions image, much faster and better version of the original [neuraltalk](https://github.com/karpathy/neuraltalk) ⭐ 5,513 | 🐛 31 | 🌐 Python | 📅 2020-12-22
+  * [neuraltalk2](https://github.com/karpathy/neuraltalk2) ⭐ 5,605 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2017-11-07 by Andrej Karpathy : Recurrent Neural Network captions image, much faster and better version of the original [neuraltalk](https://github.com/karpathy/neuraltalk) ⭐ 5,514 | 🐛 31 | 🌐 Python | 📅 2020-12-22
   * [torch-rnn](https://github.com/jcjohnson/torch-rnn) ⭐ 2,560 | 🐛 110 | 🌐 Lua | 📅 2022-06-21 by Justin Johnson : reusable RNN/LSTM modules for torch7 - much faster and memory efficient reimplementation of char-rnn
   * [torchnet](https://github.com/torchnet/torchnet) ⚠️ Archived : modular framework that enables building neural network models
   * [rnn](https://github.com/Element-Research/rnn) ⭐ 938 | 🐛 78 | 🌐 Lua | 📅 2017-12-21 by Nicholas Leonard : general library for implementing RNN, LSTM, BRNN and BLSTM (highly unit tested).
@@ -94,7 +94,7 @@ The project is not actively maintained.
   * [rnn examples](https://github.com/deeplearning4j/dl4j-examples/tree/master/dl4j-examples/src/main/java/org/deeplearning4j/examples/recurrent) ⭐ 2,503 | 🐛 88 | 🌐 Java | 📅 2026-07-16
   * [Documentation](http://deeplearning4j.org/) (Also in [Chinese](http://deeplearning4j.org/zh-index.html), [Japanese](http://deeplearning4j.org/ja-index.html), [Korean](http://deeplearning4j.org/kr-index.html)) : [RNN](http://deeplearning4j.org/usingrnns.html), [LSTM](http://deeplearning4j.org/lstm.html)
 * Etc.
-  * [neuraltalk](https://github.com/karpathy/neuraltalk) ⭐ 5,513 | 🐛 31 | 🌐 Python | 📅 2020-12-22 by Andrej Karpathy : numpy-based RNN/LSTM implementation
+  * [neuraltalk](https://github.com/karpathy/neuraltalk) ⭐ 5,514 | 🐛 31 | 🌐 Python | 📅 2020-12-22 by Andrej Karpathy : numpy-based RNN/LSTM implementation
   * [Brainstorm](https://github.com/IDSIA/brainstorm) ⭐ 1,331 | 🐛 27 | 🌐 Python | 📅 2022-09-13: deep learning library in Python, developed by IDSIA, thereby including various recurrent structures
   * [Recurrentjs](https://github.com/karpathy/recurrentjs) ⭐ 989 | 🐛 5 | 🌐 HTML | 📅 2016-11-04 by Andrej Karpathy : a beta javascript library for RNN
   * [faster-RNNLM](https://github.com/yandex/faster-rnnlm) ⭐ 562 | 🐛 33 | 🌐 C++ | 📅 2022-04-26 of Yandex : C++ based rnnlm implementation aimed to handle huge datasets
@@ -448,4 +448,4 @@ The project is not actively maintained.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
